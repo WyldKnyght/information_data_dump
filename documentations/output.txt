@@ -1,0 +1,7 @@
+
+The Pokémon TCG API is a dataset of card data that developers can use to build applications. It includes prices, images, search queries and details of every card, all in JSON format. It is available from Base Set through Sword & Shield. The Pokèmon TCG Developer Portal is used to manage accounts and API keys.
+The Pokemon TCG API is a tool for building applications related to the Pokemon Trading Card Game. It is managed through a third-party login provider called Auth0 and serves over 1 million requests a week. However, it is not officially affiliated with Nintendo or The Pokemon Company.
+
+
+The GitHub repository "Awesome Pokemon" is a comprehensive collection of resources, tools, and communities related to Pokemon and Pokemon Go. It is a curated list of content and a great starting place for those interested in the Pokemon TCG. However, there is no specific main function mentioned on the website.
+

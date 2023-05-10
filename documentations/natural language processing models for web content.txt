@@ -1,0 +1,42 @@
+Command google returned: [
+    {
+        "title": "The Power of Natural Language Processing - Harvard Business Review",
+        "href": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
+        "body": "NLP practitioners call tools like this \"language models,\" and they can be used for simple analytics tasks, such as classifying documents and analyzing the sentiment in blocks of text, as well..."
+    },
+    {
+        "title": "Natural Language Processing (NLP) - A Complete Guide",
+        "href": "https://www.deeplearning.ai/resources/natural-language-processing/",
+        "body": "NLP is used for a wide variety of language-related tasks, including answering questions, classifying text in a variety of ways, and conversing with users. Here are 11 tasks that can be solved by NLP: Sentiment analysis is the process of classifying the emotional intent of text."
+    },
+    {
+        "title": "[2302.08575] Foundation Models for Natural Language Processing -- Pre ...",
+        "href": "https://arxiv.org/abs/2302.08575",
+        "body": "Download PDF Abstract: This open access book provides a comprehensive overview of the state of the art in research and applications of Foundation Models and is intended for readers familiar with basic Natural Language Processing (NLP) concepts. Over the recent years, a revolutionary new paradigm has been developed for training models for NLP. These models are first pre-trained on large ..."
+    },
+    {
+        "title": "Use NLP and ML to Structure Extracted Web Data | Towards Data Science",
+        "href": "https://towardsdatascience.com/something-from-nothing-use-nlp-and-ml-to-extract-and-structure-web-data-3f49b2f72b13",
+        "body": "First, we will use natural language processing (NLP) and named entity recognition (NER) to extract place-names from the text. NLP is a form of machine learning, in which computer algorithms use grammar and syntax rules to learn relationships between words in text."
+    },
+    {
+        "title": "How Google uses NLP to better understand search queries, content",
+        "href": "https://searchengineland.com/how-google-uses-nlp-to-better-understand-search-queries-content-387340",
+        "body": "Natural language processing, or NLP, makes it possible to understand the meaning of words, sentences and texts to generate information, knowledge or new text. It consists of natural language ..."
+    },
+    {
+        "title": "PDF Web-based Models for Natural Language Processing",
+        "href": "https://homepages.inf.ed.ac.uk/mlap/Papers/tslp05.pdf",
+        "body": "Additional Key Words and Phrases: Web counts, n-gram models, evaluation 1. INTRODUCTION The web is being increasingly used as a data source in a wide range of natural language processing (NLP) tasks. Several researchers have explored the potential of web data for machine translation, either by creating bilingual corpora [Resnik"
+    },
+    {
+        "title": "NLP Project Part 1: Scraping the Web to Gather Data",
+        "href": "https://www.dataquest.io/blog/nlp-project-scraping-the-web-to-gather-data/",
+        "body": "NLP Project Part 1: Scraping the Web to Gather Data This is the first in a series of posts describing my natural language processing (NLP) project. To really benefit from this NLP article, you should understand the pandas library and know regex for cleaning data."
+    },
+    {
+        "title": "[2305.03497] Training Natural Language Processing Models on Encrypted ...",
+        "href": "https://arxiv.org/abs/2305.03497",
+        "body": "With the increasing use of cloud-based services for training and deploying machine learning models, data privacy has become a major concern. This is particularly important for natural language processing (NLP) models, which often process sensitive information such as personal communications and confidential documents. In this study, we propose a method for training NLP models on encrypted text ..."
+    }
+]

@@ -1,0 +1,21 @@
+https://pokemontcg.io/
+The main function of this website is to provide access to the PokÃ©mon TCG API for developers, which includes comprehensive card data, prices, hi-res images, and advanced search queries.
+
+
+https://dev.pokemontcg.io/
+The main function of this website is to provide a developer portal for the Pokémon TCG API, which enables developers to create applications using the API.
+
+
+https://github.com/tobiasbueschel/awesome-pokemon
+The main function of this website is to provide a collection of resources, tools, and more related to Pokémon and Pokémon Go. It includes tools for calculating stats and levels, datamined information about species, PVP rankings and movesets, and a calendar of Pokémon Go events.
+
+
+https://pokemontcg.io/
+The main function of this website is to provide a developer portal for the Pokémon TCG API where developers can build applications using the API. The website also notes that all accounts are managed via Auth0 and is not associated with Nintendo or The Pokémon Company.
+
+
+https://github.com/tobiasbueschel/awesome-pokemon
+The main function of this website is to provide a curated list of various resources, tools, and communities related to Pokémon and Pokémon GO, for people interested in Pokémon to find useful resources and connect with other fans. There is no specific main function specified.
+
+https://pokeapi.co/
+The main function of this website is to provide a publicly available RESTful API that contains data about the Pokémon game series, including information on Pokémon species, moves, abilities, and more.

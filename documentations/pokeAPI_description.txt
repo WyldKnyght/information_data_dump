@@ -1,0 +1,1 @@
+The PokeAPI website provides a modern RESTful API with all the data about the Pokemon main game series. Its endpoints allow users to access data about specific Pokemon, their abilities, types, moves, and more. Additional documentation can be found on the website for more information.

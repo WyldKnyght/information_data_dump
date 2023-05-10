@@ -1,0 +1,7 @@
+Command evaluate_code returned: Your code seems to be missing a `return` statement in the `main()` function. You could modify the function to return the list of answers by adding the following line at the end of the function:
+
+```
+return answers
+```
+
+This will ensure that the list of answers is returned when the function is called.

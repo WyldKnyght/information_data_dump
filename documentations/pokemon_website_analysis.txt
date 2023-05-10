@@ -1,0 +1,2 @@
+https://dev.pokemontcg.io/
+Main function: To provide access to the Pokémon TCG API and to build a community of developers who use it.

@@ -1,0 +1,5 @@
+Command evaluate_code returned: 1. Use `with` statement to open the file in binary mode instead of text mode.
+2. Use `response.content` instead of `response.text` to write binary data to the file.
+3. Use `response.raise_for_status()` to raise an exception for any unsuccessful HTTP status codes instead of checking for status code manually.
+4. Use `os.path.basename` instead of `Path(url).name` to get the file name from the URL.
+5. Use `logging.exception` instead of `logging.error` to log the full traceback of the exception.

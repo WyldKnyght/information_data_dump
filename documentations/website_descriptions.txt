@@ -1,0 +1,1 @@
+The main function of https://dev.pokemontcg.io/ is to provide developers with access to the Pokémon TCG API, which includes a comprehensive dataset of card data, prices, hi-res images, and advanced search queries.

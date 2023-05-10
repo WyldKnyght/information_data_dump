@@ -1,0 +1,3 @@
+Main function of the website:
+
+The main function of https://dev.pokemontcg.io/ is to provide access to the Pokémon TCG API and connect developers who are building applications with this API. Additionally, it uses Auth0 to manage user accounts and is not endorsed or affiliated with Nintendo or The Pokémon Company.

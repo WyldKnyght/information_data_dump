@@ -1,0 +1,42 @@
+Command google returned: [
+    {
+        "title": "HTML basics - Learn web development | MDN - Mozilla Developer",
+        "href": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics",
+        "body": "HTML ( H yper T ext M arkup L anguage) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions. So what is HTML?"
+    },
+    {
+        "title": "How to Read Website Source Code - Neil Patel",
+        "href": "https://neilpatel.com/blog/how-to-read-source-code/",
+        "body": "Below are the keyboard commands for viewing your webpage source code for both PC and Mac. PC Firefox: CTRL + U (Meaning press the CTRL key on your keyboard and hold it down. While holding down the CTRL key, press the \"u\" key.) Alternatively, you can go to the \"Firefox\" menu and then click on \"Web Developer,\" and then \"Page Source.\""
+    },
+    {
+        "title": "How to Read Your Website Source Code and Why It's ... - Entrepreneur",
+        "href": "https://www.entrepreneur.com/science-technology/how-to-read-your-website-source-code-and-why-its-important/228076",
+        "body": "The first step in checking your website's source code is to view the actual code. Every web browser allows you to do this easily. Below are the keyboard commands for viewing your..."
+    },
+    {
+        "title": "How to Read the Website's Source Code [Windows, Mac, Android, iOS]",
+        "href": "https://adsterra.com/blog/read-the-source-code-of-a-website/",
+        "body": "For Windows, the source code of a site can be viewed by pressing CTRL + U. This method is suitable for all browsers. Google Chrome: you can view the source code in another way by right-clicking on the page and selecting the \"View page source\" option in the pop-up menu."
+    },
+    {
+        "title": "How to See the Source Code of a Website (Easy Methods) - Reliablesoft.net",
+        "href": "https://www.reliablesoft.net/view-source-code/",
+        "body": "To view the source of a website on a Mac using Safari, navigate to the page you want and use the following keyboard shortcut: Option+Command+U. Alternatively, you can right-click anywhere on the page and select \"Show Page Source\" from the dropdown menu. View Source Code on a Mac Google Chrome"
+    },
+    {
+        "title": "How to View the HTML Source Code of a Web Page - Computer Hope",
+        "href": "https://www.computerhope.com/issues/ch000746.htm",
+        "body": "To view the source code of a web page in Microsoft Internet Explorer, use any of the following methods. View source code only Method one To view only the source code, press Ctrl + U on your computer's keyboard. Method two Right-click a blank part of the web page and select View source from the pop-up menu that appears."
+    },
+    {
+        "title": "The ways to find API in open source website - Stack Overflow",
+        "href": "https://stackoverflow.com/questions/68115835/the-ways-to-find-api-in-open-source-website",
+        "body": "2 Answers. Sorted by: 2. a) open the url on chrome. b) go to inspect -> Network panel & save the request a HAR file. c) there are many ways to use .har file e.g. har to postman collection or har to python requests. d) From the response, use json to extract/filter the TIN. Share. Improve this answer."
+    },
+    {
+        "title": "Where can I find javascript native functions source code?",
+        "href": "https://stackoverflow.com/questions/10289182/where-can-i-find-javascript-native-functions-source-code",
+        "body": "@Abdul, the JS engine is indeed like the JVM or CLR. In the case of JS, the standard does not explicitly specify which language the VM and libraries must be written in, but both are usually written as native code. Try for example something like console.log(Date) and you'll most likely see function Date() { [native code] }. -"
+    }
+]

@@ -1,0 +1,12 @@
+A list of resources and tools related to Pokemon and Pokemon Go:
+
+1. PokeAPI: A RESTful API for access to Pokemon data.
+2. Pokémon Battle Simulators: Play Pokemon battles using various simulators.
+3. Egg Statistics for Pokemon Go: An app for tracking egg hatching probability.
+4. PVPoke: A PvP simulator to calculate optimal Pokemon battle strategies.
+5. Calcy IV: Android app for Pokemon level IV calculation.
+6. InfoSpreadsheet: Google Sheets add-on for Pokemon data management.
+7. Pokemon GO Calendar: An app for tracking Pokemon Go raid events.
+8. Poke Genie: An app for calculating IV values and optimizing Pokemon battles.
+9. Pokemon TCG Online: An online card game based on the Pokemon Trading Card Game.
+10. Pokémon Showdown: A battle simulator for the Pokemon Trading Card Game.

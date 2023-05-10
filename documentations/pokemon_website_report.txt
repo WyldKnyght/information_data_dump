@@ -1,0 +1,49 @@
+POKEMON WEBSITE REPORT
+
+===============================================
+Pokémon TCG Tools and Info
+===============================================
+
+pokemontcg.io - A comprehensive tool for building and testing Pokémon TCG decks. Includes an extensive card database, deck builder, and live game simulator.
+
+dev.pokemontcg.io - Developer documentation for the Pokémon TCG API. Includes instructions on how to access the API and examples of how to use it to retrieve card data, manage user accounts, and perform other operations.
+
+pokémon.cardsrealm.com - A website that tracks and analyzes the metagame for the Pokémon TCG by analyzing decklists posted on various forums and tournament results.
+
+mvnrepository.com - A list of all available Maven dependencies for the Pokémon TCG Java SDK.
+
+io.pokemontcg - A reference to the latest version of the Pokémon TCG Java SDK published on the Maven Central Repository.
+
+traderhill.com - A website that provides a customized stock market simulator using Pokémon trading cards.
+
+
+===============================================
+Pokémon TCG Online Play
+===============================================
+
+pokemoncard.io - A PTCGO simulator and analytics website. Offers a range of features, including card search, deck building, and game replays.
+
+how-to-create-a-pokemon-trading-card-game-online - A tutorial for building a Pokémon TCG online game using node.js and socket.io.
+
+pokemontcg.guru - A PTCGO resource for deck building and online play. Offers a collection of top performing decks as well as an extensive collection of cards and prices.
+
+pkmncards.com - A Pokémon TCG database and news site that features detailed card information and even tutorials for creating custom cards with your own artwork.
+
+pokemonbattlepredictor.com - A simple-to-use Pokémon TCG battle predictor that allows players to simulate battles between different decks.
+
+
+===============================================
+Pokémon TCG Reference and Informational
+===============================================
+
+pokeapi.co - A comprehensive Pokémon TCG API that provides information on Pokémon, cards, sets, and individual cards' prices.
+
+serebii.net - A website that features extensive information about the Pokémon TCG as well as other Pokémon games. Offers a searchable database of cards, sets, and decks as well as the latest news and updates about the Pokémon universe.
+
+bulbapedia.bulbagarden.net - A comprehensive database of information about Pokémon and the Pokémon TCG.
+
+developer.tcgplayer.com - Developer documentation for TCGPlayer's web API. Includes instructions on how to access the API and examples of how to use it to retrieve card data, manage user accounts, and perform other operations.
+
+mixedanalytics.com - A list of free APIs that you can use to retrieve Pokémon data, including card data, game data, and user data.
+
+pokemon.cardsrealm.com - A website that tracks and analyzes the metagame for the Pokémon TCG by analyzing decklists posted on various forums and tournament results. 

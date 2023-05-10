@@ -1,0 +1,20 @@
+Website Template
+
+Pokemon Trading Card Game Resources:
+- https://pokemontcg.io/: API for Pokemon TCG data
+- https://dev.pokemontcg.io/: Developer resources for Pokemon TCG API
+- https://pokeapi.co/: API for Pokemon data
+- https://pokeapi.co/docs/v2.html: Documentation for Pokemon API
+- https://pokemoncard.io/: Pokemon TCG deck builder and collection tracker
+- https://docs.tcgplayer.com/docs/: TCGPlayer's API reference for Magic: The Gathering and other card games
+
+Web Design Inspiration:
+- https://www.awwwards.com/websites/fullscreen/
+- https://www.awwwards.com/websites/parallax/
+- https://www.awwwards.com/websites/scrolling/
+- https://www.awwwards.com/tag/pokemon/
+
+Machine Learning and AI:
+- https://www.theverge.com/2021/12/2/22811849/pokemon-competitive-ai-nintendo-game-freak: Article about AI in Pokemon TCG
+- https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf: Deep learning for video games
+- https://ai.googleblog.com/2021/03/leveraging-machine-learning-for-game.html: Google's use of ML in games

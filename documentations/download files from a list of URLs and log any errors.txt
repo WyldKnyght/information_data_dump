@@ -1,0 +1,7 @@
+Command evaluate_code returned: The code looks good and follows best practices. However, here are a few suggestions for improvements:
+
+1. Add type hints for the function arguments and return value.
+2. Use `os.path.exists` to check if the directory already exists before creating it.
+3. Use `os.path.isfile` to check if the file already exists before downloading it.
+4. Use `response.headers.get('Content-Length', 0)` to get the content length instead of `response.headers['Content-Length']` to avoid a KeyError if the header is not present.
+5. Use `logging.error` instead of `logging.exception` to log errors that are caught and handled in the code.

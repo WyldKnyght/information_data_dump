@@ -1,0 +1,1 @@
+https://pokemontcg.io/: Provides developers with access to the Pokémon TCG API, containing comprehensive card data for building applications.

@@ -1,0 +1,42 @@
+Command google returned: [
+    {
+        "title": "Auto-Categorization of Content using Deep Learning",
+        "href": "https://blogs.mathworks.com/deep-learning/2021/08/24/auto-categorization-of-content-using-deep-learning/",
+        "body": "We have created a text classification model using MATLAB Deep Learning and Text Analytics Toolboxes that can automatically assign categories to more than 300,000 Answers. Using MATLAB, we can automatically categorize the in-flow of new and updated Answers daily as well. It was a unique solution that helped save us a lot of time and manual effort."
+    },
+    {
+        "title": "Machine Learning Applied To Web Content Categorization - zvelo",
+        "href": "https://zvelo.com/applying-machine-learning-to-web-content-categorization/",
+        "body": "Web content categorization is the task of classifying a domain, URL, or webpage under a pre-classified category. zvelo has 497 defined topic-based, malicious, and objectionable content categories. These categories range from Tennis to Medical to Travel to Malicious."
+    },
+    {
+        "title": "Using Machine Learning to Categorize Texts into Topics",
+        "href": "https://towardsdatascience.com/using-machine-learning-to-categorize-texts-into-topics-3650f64f663f",
+        "body": "Using Machine Learning to Categorize Texts into Topics Develop an unsupervised learning algorithm to find subject commonalities Image from Pixabay After reading a news article — whether the subject matter is U.S. politics, a movie review, or a productivity tip — you can turn to someone else and give them a general idea of what it's about, right?"
+    },
+    {
+        "title": "Website Categorization API - Data Science, Machine Learning, Deep Learning",
+        "href": "https://www.alpha-quantum.com/blog/website-categorization/website-categorization-api/",
+        "body": "We have developed one of the most accurate Website Categorization APIs, with websites classified in over 1000 content categories. You can try it out (for free) here: ... Stochastic Gradient Descent is an algorithm used to train a machine learning model. It is a gradient-based optimization method that computes the gradient of the loss function ..."
+    },
+    {
+        "title": "Industrial Classification of Websites by Machine Learning with hands-on ...",
+        "href": "https://towardsdatascience.com/industrial-classification-of-websites-by-machine-learning-with-hands-on-python-3761b1b530f1",
+        "body": "Industrial Classification of Websites by Machine Learning with hands-on Python | by Ridham Dave | Towards Data Science Write Sign up 500 Apologies, but something went wrong on our end. Refresh the page, check Medium 's site status, or find something interesting to read. Ridham Dave 60 Followers Follow More from Medium Arslan Mirza in"
+    },
+    {
+        "title": "PDF Website Classiﬁcation Using Machine Learning Approaches",
+        "href": "https://raw.githubusercontent.com/lzodevelopment/URL-categorization-using-machine-learning/master/Website%20Classification%20Using%20Machine%20Learning%20Approaches.pdf",
+        "body": "predicting websites categories based on websites content features. Results of this project: created machine learning and custom models that are capable of clas-sifying english content websites. Models performances are tested on a diﬀerent websites data sets which two main factors of each data set is Website URL with website category. Machine ..."
+    },
+    {
+        "title": "Website categorization. In this article, we will introduce you… | by ...",
+        "href": "https://medium.com/website-categorization/website-categorization-api-ca6c3e0f6c4d",
+        "body": "Main pipeline is: fetch the website -> extract the content -> perform text-preprocessing -> send text to machine learning classifier -> display results, either the main category or the full..."
+    },
+    {
+        "title": "How Search Engines Use Machine Learning: 9 Things We Know For Sure",
+        "href": "https://www.searchenginejournal.com/ml-things-we-know/408882/",
+        "body": "1. Pattern Detection. Search engines are using machine learning for pattern detections that help identify spam or duplicate content. Low-quality content typically has distinct similarities, such ..."
+    }
+]

@@ -1,0 +1,7 @@
+https://pokemontcg.io/
+https://pokeapi.co/
+https://pokemon.cardsrealm.com/en-us/meta-decks/standard
+https://www.cardtrader.com/en/docs/api
+https://towardsdatascience.com/become-a-pok%C3%A9mon-master-with-machine-learning-f61686542ef1
+https://www.theverge.com/2021/12/2/22811849/pokemon-competitive-ai-nintendo-game-freak
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf

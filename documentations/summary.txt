@@ -1,0 +1,1 @@
+PkmnCards provides information on Pokémon trading cards including a card database and criteria-based search options as well as estimates and market values for card prices. The website also includes a comment section for users to discuss and provide information on specific cards.

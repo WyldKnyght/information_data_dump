@@ -1,0 +1,1 @@
+The main functionality of dev.pokemontcg.io is to provide a developer portal for those building with the Pokémon TCG API. It serves over 1 million API requests a week and is the easiest way to jumpstart applications. All accounts are managed via Auth0, a third-party login provider.

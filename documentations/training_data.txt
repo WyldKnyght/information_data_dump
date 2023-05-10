@@ -1,0 +1,1 @@
+Function: developer portal; API:1 million requests a week; ease of use: easy; Login provider:third-party (Auth0); affiliation:Nintendo & The Pokémon Company - NO

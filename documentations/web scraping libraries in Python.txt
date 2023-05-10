@@ -1,0 +1,42 @@
+Command google returned: [
+    {
+        "title": "Beautiful Soup: Build a Web Scraper With Python - Real Python",
+        "href": "https://realpython.com/beautiful-soup-web-scraper-python/",
+        "body": "The incredible amount of data on the Internet is a rich resource for any field of research or personal interest. To effectively harvest that data, you'll need to become skilled at web scraping.The Python libraries requests and Beautiful Soup are powerful tools for the job. If you like to learn with hands-on examples and have a basic understanding of Python and HTML, then this tutorial is for ..."
+    },
+    {
+        "title": "Scrapy | A Fast and Powerful Scraping and Web Crawling Framework",
+        "href": "https://scrapy.org/",
+        "body": "{\"title\": \"Improved Frontera: Web Crawling at Scale with Python 3 Support\"} {\"title\": \"How to Crawl the Web Politely with Scrapy\"}... Deploy them to Zyte Scrapy Cloud. or use Scrapyd to host the spiders on your own server. Fast and powerful. write the rules to extract the data and let Scrapy do the rest."
+    },
+    {
+        "title": "The 7 Best Python Libraries and Tools for Web Scraping - MUO",
+        "href": "https://www.makeuseof.com/best-python-libraries-and-tools-for-web-scraping/",
+        "body": "1. Beautiful Soup. Starting off the list with the best web scraping library for beginners: Beautiful Soup. It's essentially a tool that extracts data from parsed HTML and XML files by transforming the document into a Python object. The \"beauty\" of Beautiful Soup lies in its simplicity."
+    },
+    {
+        "title": "Web scraping with Python: A quick guide",
+        "href": "https://www.educative.io/blog/python-web-scraping-tutorial",
+        "body": "Overview: Web scraping with Python. Build a web scraper with Python. Step 1: Select the URLs you want to scrape. Step 2: Find the HTML content you want to scrape. Step 3: Choose your tools and libraries. Step 4: Build your web scraper in Python. Completed code. Step 5: Repeat for Madewell. Wrapping up and next steps."
+    },
+    {
+        "title": "The Best Python Web Scraping Libraries - Scrapingdog",
+        "href": "https://www.scrapingdog.com/blog/best-python-web-scraping-libraries/",
+        "body": "Here's the list of top Python web scraping libraries that we choose to scrape: BeautifulSoup: This is a Python library used to parse HTML and XML documents. Requests: Best to make HTTP requests. Selenium: Used to automate web browser interactions. Scrapy Python: This is a Python framework used to build web crawlers."
+    },
+    {
+        "title": "5 Tasty Python Web Scraping Libraries - EliteDataScience",
+        "href": "https://elitedatascience.com/python-web-scraping-libraries",
+        "body": "For example, if you wanted to find all the links in the web page we pulled down earlier, it's only a few lines: Python. 1. 2. 3. from bs4 import BeautifulSoup. soup = BeautifulSoup(contents, 'html.parser') soup.find_all('a') This charming simplicity has made it one of the most beloved Python web scraping libraries!"
+    },
+    {
+        "title": "4 Best Python Web Scraping Libraries | Blog - BairesDev",
+        "href": "https://www.bairesdev.com/blog/best-python-web-scraping-libraries/",
+        "body": "The 4 Top Web Scraping Libraries (Python) Keep in mind that not all libraries that perform web scraping are created equal. Because of that, make sure to choose the one that is best suited for your project, your company, and the data you need to scrape. #1 Beautiful Soup."
+    },
+    {
+        "title": "Best Python Libraries to Perform Web Scraping - Medium",
+        "href": "https://medium.com/analytics-vidhya/best-python-libraries-to-perform-web-scraping-9b147bdc44f4",
+        "body": "Being a beginner-friendly library, Beautiful Soup is pretty simple to use and is a breeze to work with. And, the library also pairs well with other web scraping Python libraries, such as Requests ..."
+    }
+]

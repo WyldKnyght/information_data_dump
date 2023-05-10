@@ -1,0 +1,2 @@
+Website: pokeapi.co
+Main Function: Provide a RESTful API with easy access to an extensive database containing information on everything related to the Pokémon main game series, including Pokémon and Berry flavors. The website aims to provide this information through a modern and user-friendly API without requiring extensive setup.

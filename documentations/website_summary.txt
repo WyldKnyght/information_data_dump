@@ -1,0 +1,1 @@
+PokéAPI: The main function of the PokéAPI is to provide a RESTful API with information on everything related to the Pokémon main game series, easily accessible through documentation and without any extensive setup process. It serves over 330,000,000 API calls each month.

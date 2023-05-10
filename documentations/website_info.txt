@@ -1,0 +1,2 @@
+Website: Pokemon TCG Developers
+Main Function: Provides access to the Pokémon TCG API for developers, which includes comprehensive data on all PokÃ©mon TCG cards for use in building applications.

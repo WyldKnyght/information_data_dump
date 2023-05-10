@@ -1,0 +1,2 @@
+Website 1: https://pokemontcg.io/
+Function: The website provides a resource for developers to programmatically obtain TCG card information through APIs.

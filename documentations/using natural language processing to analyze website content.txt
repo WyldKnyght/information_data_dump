@@ -1,0 +1,42 @@
+Command google returned: [
+    {
+        "title": "A Guide to Using Natural Language Processing for Content ... - rellify",
+        "href": "https://rellify.com/blog/natural-language-processing/",
+        "body": "Natural Language Processing (NLP) is a tool that uses computer science, AI concepts, linguistics, and data to allow computers to understand human language - both written and verbal. It converts written or spoken words into data and makes it possible for devices to communicate with each other."
+    },
+    {
+        "title": "Natural Language Processing (NLP): What it is and why it matters",
+        "href": "https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html",
+        "body": "Natural language processing helps computers communicate with humans in their own language and scales other language-related tasks. For example, NLP makes it possible for computers to read text, hear speech, interpret it, measure sentiment and determine which parts are important."
+    },
+    {
+        "title": "Natural Language Processing (NLP) - A Complete Guide",
+        "href": "https://www.deeplearning.ai/resources/natural-language-processing/",
+        "body": "Natural Language Processing is the discipline of building machines that can manipulate language in the way that it is written, spoken, and organized ... and sentiment analysis. Businesses use NLP to power a growing number of applications, both internal — like detecting insurance fraud, determining customer sentiment, and optimizing aircraft ..."
+    },
+    {
+        "title": "The Power of Natural Language Processing - Harvard Business Review",
+        "href": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
+        "body": "NLP practitioners call tools like this \"language models,\" and they can be used for simple analytics tasks, such as classifying documents and analyzing the sentiment in blocks of text, as well..."
+    },
+    {
+        "title": "What is Natural Language Processing? | IBM",
+        "href": "https://www.ibm.com/topics/natural-language-processing",
+        "body": "Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can."
+    },
+    {
+        "title": "12 NLP Examples: How Natural Language Processing is Used",
+        "href": "https://www.wonderflow.ai/blog/natural-language-processing-examples/",
+        "body": "Some of these examples are of companies who have made use of the technology in order to improve their product or service, and some are actual software providers that make this technology accessible to businesses. 1. Form Spell Check. Source. Spell check is a form of NLP that everyone is used to by now."
+    },
+    {
+        "title": "What Is Natural Language Processing, and How Does It Work? - How-To Geek",
+        "href": "https://www.howtogeek.com/665702/what-is-natural-language-processing-and-how-does-it-work/",
+        "body": "Natural Language Processing is a branch of artificial intelligence that attempts to bridge that gap between what a machine recognizes as input and the human language. This is so that when we speak or type naturally, the machine produces an output in line with what we said. This is done by taking vast amounts of data points to derive meaning ..."
+    },
+    {
+        "title": "What is Natural Language Processing? | Google Cloud",
+        "href": "https://cloud.google.com/learn/what-is-natural-language-processing",
+        "body": "Natural language processing (NLP) uses machine learning to reveal the structure and meaning of text. With natural language processing applications, organizations can analyze text and..."
+    }
+]

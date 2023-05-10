@@ -1,0 +1,27 @@
+Command evaluate_code returned: The function `generate_list` seems to be working fine. However, the last three lines of the code are not necessary as they are trying to print the output of the function. Instead, the function should be called and its output should be returned. 
+
+Here's the updated code:
+
+```
+import nltk
+nltk.download('punkt')
+
+from nltk.tokenize import sent_tokenize
+
+
+def generate_list(text):
+    features = ['access to card data', 'prices and hi-res images', 'detailed search queries', 'SDKs for easy development', 'in-depth details for every card in JSON format', 'advanced search queries with a familiar Lucene-like syntax']
+    sentences = sent_tokenize(text)
+    feature_list = []
+    for sentence in sentences:
+        for feature in features:
+            if feature in sentence.lower():
+                feature_list.append({'feature': feature, 'description': sentence.strip()})
+    return feature_list
+
+text = "This is a sample text that talks about the features of a product. The product offers access to card data, prices and hi-res images, and detailed search queries. It also provides SDKs for easy development, in-depth details for every card in JSON format, and advanced search queries with a familiar Lucene-like syntax."
+
+print(generate_list(text))
+``` 
+
+The output of the function will be a list of dictionaries, where each dictionary contains the feature and its description.

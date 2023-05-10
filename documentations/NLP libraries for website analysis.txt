@@ -1,0 +1,42 @@
+Command google returned: [
+    {
+        "title": "Awesome NLP — 21 popular NLP libraries of 2022 - Medium",
+        "href": "https://medium.com/nlplanet/awesome-nlp-21-popular-nlp-libraries-of-2022-2e07a914248b",
+        "body": "spaCy is a free open-source library for Natural Language Processing in Python and Cython. It's built on the very latest research and was designed from day one to be used in production..."
+    },
+    {
+        "title": "Analyze Your Website with NLP and Knowledge Graphs",
+        "href": "https://towardsdatascience.com/analyze-your-website-with-nlp-and-knowledge-graphs-88e291f6cbf4",
+        "body": "Analyze Your Website with NLP and Knowledge Graphs Combine various NLP techniques to construct a knowledge graph representing your website A website is a reflection of the company. For the most part, it is used to inform users about various products and services and drive sales."
+    },
+    {
+        "title": "NLTK :: Natural Language Toolkit",
+        "href": "https://www.nltk.org/",
+        "body": "NLTK is available for Windows, Mac OS X, and Linux. Best of all, NLTK is a free, open source, community-driven project. NLTK has been called \"a wonderful tool for teaching, and working in, computational linguistics using Python,\" and \"an amazing library to play with natural language.\""
+    },
+    {
+        "title": "8 great Python libraries for natural language processing",
+        "href": "https://www.infoworld.com/article/3519413/8-great-python-libraries-for-natural-language-processing.html",
+        "body": "The CoreNLP library — a product of Stanford University — was built to be a production-ready natural language processing solution, capable of delivering NLP predictions and analyses at scale...."
+    },
+    {
+        "title": "Natural language processing technology - Azure Architecture Center ...",
+        "href": "https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/natural-language-processing",
+        "body": "This open-source NLP library provides Python, Java, and Scala libraries that offer the full functionality of traditional NLP libraries such as spaCy, NLTK, Stanford CoreNLP, and Open NLP. Spark NLP also offers functionality such as spell checking, sentiment analysis, and document classification."
+    },
+    {
+        "title": "Top 7 Python NLP Libraries [And Their Applications in 2023] - upGrad blog",
+        "href": "https://www.upgrad.com/blog/python-nlp-libraries-and-applications/",
+        "body": "Top NLP Libraries 1. Natural Language Toolkit (NLTK) NLTK is one of the leading platforms for building Python programs that can work with human language data. It presents a practical introduction to programming for language processing."
+    },
+    {
+        "title": "Top 10 NLP Tools & Services in 2022 - MonkeyLearn Blog",
+        "href": "https://monkeylearn.com/blog/natural-language-processing-tools/",
+        "body": "The Top 10 NLP Tools. 1. MonkeyLearn. MonkeyLearn is a user-friendly, NLP-powered platform that helps you gain valuable insights from your text data. To get started, you can try one of the pre-trained models, to perform text analysis tasks such as sentiment analysis, topic classification, or keyword extraction."
+    },
+    {
+        "title": "Top 5 NLP Tools in Python for Text Analysis Applications",
+        "href": "https://thenewstack.io/top-5-nlp-tools-in-python-for-text-analysis-applications/",
+        "body": "Python is the perfect programming language for developing text analysis applications, due to the abundance of custom libraries available that are focused on delivering natural language processing functions. Five of the best NLP libraries available are TextBlob, SpaCy, NLTK, Genism, and PyNLPl."
+    }
+]

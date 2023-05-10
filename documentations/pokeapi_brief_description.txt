@@ -1,0 +1,1 @@
+Pokeapi.co is a publicly available RESTful API with access to an extensive database containing information about the Pokemon main game series, including data on Pokemon, moves, locations, abilities, and more, created by contributors from around the world. The API is accompanied by comprehensive documentation for users to easily get started. 

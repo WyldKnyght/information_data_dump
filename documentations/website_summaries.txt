@@ -1,0 +1,2 @@
+-Pokemontcg.io: A developer resource for accessing the Pokemon TCG API, which includes a comprehensive dataset of card data and documentation for developers.
+-Pokemoncard.io: A card pricing and checklist tool that shows data on most Pokemon TCG cards, providing users with details and prices for individual cards, full sets, vending machine sets, and even error cards.
